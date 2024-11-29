@@ -1,0 +1,14 @@
+# Scala
+target/
+
+# Intellij
+.idea
+
+# vscode
+.vscode
+
+# Others
+.bloop
+.bsp
+.metals
+project/
